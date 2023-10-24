@@ -1,8 +1,8 @@
 # contents
 
-## git semantic versioning bash scripts
+## git semantic versioning bash scripts automation
 
-### automatically generate next
+### generate next tag
 
 Will prompt the user propousing the next tag, then will apply it, and push.
 
