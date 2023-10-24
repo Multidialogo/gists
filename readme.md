@@ -1,6 +1,14 @@
 # contents
 
-## bash script to automatically prune old tags from a git repository following semantic versioning
+## git semantic versioning bash scripts
+
+### automatically generate next
+
+Will prompt the user propousing the next tag, then will apply it, and push.
+
+[see script](next_git_tag.sh)
+
+### prune old tags
 
 Script usage.
 
