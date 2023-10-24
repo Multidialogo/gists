@@ -4,9 +4,9 @@
 
 Script usage.
 
-First parameter if passed must be the lower tag to preserve, must be an integer.
+If passed first parameter must be the lower tag to preserve, must be an integer.
 
-If no argument passed for any tag in the repository the user will be prompted to delete it or not.
+If no argument passed the user will be prompted for confirmation for any tag in the repository.
 
 [see script](prune_git_tags.sh)
 
