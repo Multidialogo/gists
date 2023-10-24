@@ -1,14 +1,16 @@
 # contents
 
-## git semantic versioning bash scripts automation
+# bash scripts
 
-### generate next tag
+### git semantic versioning tags automation
+
+#### generate next tag
 
 Will prompt the user propousing the next tag, then will apply it, and push.
 
 [see script](next_git_tag.sh)
 
-### prune old tags
+#### prune old tags
 
 Script usage.
 
