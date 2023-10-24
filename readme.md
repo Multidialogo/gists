@@ -1,6 +1,6 @@
 # contents
 
-# bash scripts
+## bash scripts
 
 ### git semantic versioning tags automation
 
